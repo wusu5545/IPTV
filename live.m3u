@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/9999&douyu&logo" group-title="•斗鱼「游戏」",YYF
+https://cdn-3.ttvb.eu.org/douyu/9999?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/3168536&douyu&logo" group-title="•斗鱼「游戏」",小叮当XDD
+https://cdn-3.ttvb.eu.org/douyu/3168536?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/88660&douyu&logo" group-title="•斗鱼「游戏」",zhou
+https://cdn-3.ttvb.eu.org//douyu/88660?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/182102&douyu&logo" group-title="•斗鱼「游戏」",224团播
+https://cdn-3.ttvb.eu.org//douyu/182102?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/60937&douyu&logo" group-title="•斗鱼「游戏」",Zard1991
+https://cdn-3.ttvb.eu.org//douyu/60937?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/6558897&douyu&logo" group-title="•斗鱼「游戏」",果小果
+https://cdn-3.ttvb.eu.org//douyu/6558897?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/48699&douyu&logo" group-title="•斗鱼「游戏」",衣锦夜行
+https://cdn-3.ttvb.eu.org//douyu/48699?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/252140&douyu&logo" group-title="•斗鱼「游戏」",doinb
+https://cdn-3.ttvb.eu.org//douyu/252140?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/307876&douyu&logo" group-title="•斗鱼「游戏」",夏一可
+https://cdn-3.ttvb.eu.org//douyu/307876?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/57321&douyu&logo" group-title="•斗鱼「游戏」",wtybill
+https://cdn-3.ttvb.eu.org//douyu/57321?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/5905138&douyu&logo" group-title="•斗鱼「游戏」",清訫
+https://cdn-3.ttvb.eu.org//douyu/5905138?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/6750632&bilibili&logo" group-title="•B站「游戏」",阿夏夏
+https://cdn-3.ttvb.eu.org//bilibili/6750632?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/22789574&bilibili&logo" group-title="•B站「游戏」",石大壮zz
+https://cdn-3.ttvb.eu.org//bilibili/22789574?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/1899236899&bilibili&logo" group-title="•B站「时政」",瓜熟迪落拉
+https://cdn-3.ttvb.eu.org//bilibili/1899236899
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/9042354&bilibili&logo" group-title="•B站「时政」",红色幻想乡
+https://cdn-3.ttvb.eu.org//bilibili/9042354?platform=hls&line=first&quality=4
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/22604707&bilibili&logo" group-title="•B站「赛事」",WSBK
+https://cdn-3.ttvb.eu.org//bilibili/22604707
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/883235&huya&logo" group-title="•虎牙「游戏」",Chalice
+https://cdn-3.ttvb.eu.org/huya/883235?media=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/629458933&douyin&logo" group-title="•抖音「游戏」",女流
+https://cdn-3.ttvb.eu.org/douyin/629458933?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/359765653648&douyin&logo" group-title="•抖音「游戏」",YJJ
+https://cdn-3.ttvb.eu.org/douyin/359765653648?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/KXyy12345678&douyin&logo" group-title="•抖音「娱乐」",开心元元
+https://cdn-3.ttvb.eu.org//douyin/KXyy12345678?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/kejie78637&douyin&logo" group-title="•抖音「棋牌」",柯洁
+https://cdn-3.ttvb.eu.org//douyin/kejie78637?stream=hls
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/dendi&twitch&logo" group-title="•Twitch「游戏」",dendi
+https://cdn-3.ttvb.eu.org//twitch/dendi
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/gingitv&twitch&logo" group-title="•Twitch「游戏」",Gingi
+https://cdn-3.ttvb.eu.org//twitch/gingitv
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/naowh&twitch&logo" group-title="•Twitch「游戏」",Naowh
+https://cdn-3.ttvb.eu.org//twitch/naowh
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/dota2ti&twitch&logo" group-title="•Twitch「游戏」",Dota2 TI
+https://cdn-3.ttvb.eu.org//twitch/dota2ti
