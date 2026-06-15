@@ -49,3 +49,5 @@ https://cdn-3.ttvb.eu.org//twitch/gingitv
 https://cdn-3.ttvb.eu.org//twitch/naowh
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/dota2ti&twitch&logo" group-title="•Twitch「游戏」",Dota2 TI
 https://cdn-3.ttvb.eu.org//twitch/dota2ti
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/110&douyu&logo" group-title="•OBS",世界杯
+http://192.168.2.5:8080/live/stream/hls.m3u8
